@@ -17,6 +17,14 @@ public class Player : MonoBehaviour
 
     // public bool isWalking = false;
 
+    // public float kBForce;
+
+    // public float kBCount;
+
+    // public float kBTime;
+
+    // public bool isKnockRight;
+
     private void OnEnable()
     {
 
@@ -62,7 +70,14 @@ public class Player : MonoBehaviour
     //     animPlayer.SetTrigger("ataque");
 
     // }
+    // void KnockLogic()
+    // {
 
+    //     if(kBCount < 0)
+    //     {
+    //         MoveLogic();
+    //     }
+    // }
 
 }
 
