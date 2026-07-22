@@ -62,6 +62,10 @@ public class HeartSystem : MonoBehaviour
             // GetComponent<PlayerLogic>().enabled = false;
             Destroy(gameObject, 1.0f);
         }
+        if (vida <= 1)
+        {
+             SceneManager.LoadScene("Game Over");
+        }
     }
 
     // void ResetDead()

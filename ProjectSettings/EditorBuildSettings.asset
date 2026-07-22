@@ -12,8 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Jogo.unity
     guid: e0d512401eac8044397ade595e312be9
   - enabled: 1
+    path: Assets/Scenes/Jogo2.unity
+    guid: e53ecebe4445c274db7aba6535eb65e0
+  - enabled: 1
     path: Assets/Scenes/Tutorial.unity
     guid: 4c17cbe53cb43be4a896727de21dd7b4
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: e54bd563a3bfe08458b61ba4d0c45901
+  - enabled: 1
+    path: Assets/Scenes/Jogo3.unity
+    guid: 1464b3aae629312459650a2662b0d5f1
+  - enabled: 1
+    path: Assets/Scenes/Jogo4.unity
+    guid: ad0de48ea8b4f0f42b2078632464b337
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
