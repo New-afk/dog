@@ -701,7 +701,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7622862465808423862, guid: 309440bbc5eb5ab49b0c0e1293a2c46a, type: 3}
       propertyPath: m_text
-      value: Fase 2
+      value: Soon .....
       objectReference: {fileID: 0}
     - target: {fileID: 7622862465808423862, guid: 309440bbc5eb5ab49b0c0e1293a2c46a, type: 3}
       propertyPath: m_fontStyle
