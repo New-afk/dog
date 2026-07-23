@@ -7,7 +7,7 @@ public class TelaInicial : MonoBehaviour
     public void PlayGame()
     {
 
-        SceneManager.LoadScene("Jogo");
+        SceneManager.LoadScene("Selecao");
     }
 
     public void QuitGame()
