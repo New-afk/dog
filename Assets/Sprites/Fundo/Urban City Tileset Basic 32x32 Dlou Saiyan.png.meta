@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 5af48eada44dc6c4da376c4c4088d979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8167143149833109466
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_0
+  - first:
+      213: 505440561521920903
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_1
+  - first:
+      213: -515107797789441275
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_2
+  - first:
+      213: -411857243932065164
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_3
+  - first:
+      213: 8377088084737176161
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_4
+  - first:
+      213: -1047626016736266316
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_5
+  - first:
+      213: -2845365266541562384
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_6
+  - first:
+      213: -6939562913881073269
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_7
+  - first:
+      213: -7830705998990852501
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_8
+  - first:
+      213: 8313664574060289405
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_9
+  - first:
+      213: -4365464051576359456
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_10
+  - first:
+      213: -2612104637317626160
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_11
+  - first:
+      213: 5728656378902930325
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_12
+  - first:
+      213: -3948843943557920738
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_13
+  - first:
+      213: 1896128705237119840
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_14
+  - first:
+      213: 2075836496586578172
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_15
+  - first:
+      213: 8771199272530443834
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_16
+  - first:
+      213: 5359638615002862719
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_17
+  - first:
+      213: -2614613084242467608
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_18
+  - first:
+      213: -650644430090495474
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_19
+  - first:
+      213: 2450637530213026295
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_20
+  - first:
+      213: 8537568227780049295
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_21
+  - first:
+      213: 6051400819815666646
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_22
+  - first:
+      213: 6521884916410416836
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_23
+  - first:
+      213: 64770096250866925
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_24
+  - first:
+      213: 6495218481712269376
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_25
+  - first:
+      213: 7456222479955465470
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_26
+  - first:
+      213: -590463488037344305
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_27
+  - first:
+      213: 7505346155460825056
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_28
+  - first:
+      213: -2579357052319703458
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_29
+  - first:
+      213: 852747567475855123
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_30
+  - first:
+      213: 8932858018942404111
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_31
+  - first:
+      213: 3907032986078156355
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_32
+  - first:
+      213: 4438867558412719083
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_33
+  - first:
+      213: -75215620051814542
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_34
+  - first:
+      213: -4494048812965509696
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_35
+  - first:
+      213: 4838258354702159372
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_36
+  - first:
+      213: -3033669401387309406
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_37
+  - first:
+      213: -8550439039667185556
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_38
+  - first:
+      213: -5767288684679668017
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_39
+  - first:
+      213: 2081379586652704582
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_40
+  - first:
+      213: -2383878022840605565
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_41
+  - first:
+      213: -5397374851578303873
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_42
+  - first:
+      213: 6730073059113488346
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_43
+  - first:
+      213: -9024492102950867687
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_44
+  - first:
+      213: -5021152150972511162
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_45
+  - first:
+      213: 4480499339687911700
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_46
+  - first:
+      213: -8620235309469595907
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_47
+  - first:
+      213: 954421418555362726
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_48
+  - first:
+      213: -3393104876536476559
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_49
+  - first:
+      213: 7238764805654677632
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_50
+  - first:
+      213: 8506166523045383189
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_51
+  - first:
+      213: -1045053099209602509
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_52
+  - first:
+      213: -8738455873735569472
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_53
+  - first:
+      213: 4857221981611002956
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_54
+  - first:
+      213: 6588114970416454065
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_55
+  - first:
+      213: 643601298826352717
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_56
+  - first:
+      213: 4088082555328106171
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_57
+  - first:
+      213: 7583677075169008358
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_58
+  - first:
+      213: -3196246540926428703
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_59
+  - first:
+      213: -7535553067273403932
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_60
+  - first:
+      213: 3619456969461806490
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_61
+  - first:
+      213: 6597278576529977164
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_62
+  - first:
+      213: -4293240132605404146
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_63
+  - first:
+      213: 5894709480874724623
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_64
+  - first:
+      213: 3013050627422902200
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_65
+  - first:
+      213: -2159502662722448062
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_66
+  - first:
+      213: -8976762638036774596
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_67
+  - first:
+      213: -2495777355272694099
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_68
+  - first:
+      213: 1804173559948681183
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_69
+  - first:
+      213: -7810282054591494379
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_70
+  - first:
+      213: 246899433201694977
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_71
+  - first:
+      213: -6538227318142877903
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_72
+  - first:
+      213: -1496958007235378150
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_73
+  - first:
+      213: 308631055443910756
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_74
+  - first:
+      213: -8992380648414729136
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_75
+  - first:
+      213: -6834993131372206577
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_76
+  - first:
+      213: 1320819176888632125
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_77
+  - first:
+      213: -3926468596014687646
+    second: Urban City Tileset Basic 32x32 Dlou Saiyan_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 831
+        width: 206
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620ce6c939a78ae80800000000000000
+      internalID: -8167143149833109466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 863
+        width: 32
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b8694438fa30700800000000000000
+      internalID: 505440561521920903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 985
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030ab3ef28f9d8f0800000000000000
+      internalID: -515107797789441275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 986
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472024dc40ac84af0800000000000000
+      internalID: -411857243932065164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 986
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162bae6ba35614470800000000000000
+      internalID: 8377088084737176161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 988
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b73af630b51671f0800000000000000
+      internalID: -1047626016736266316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 989
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53e8f8d5b3388d0800000000000000
+      internalID: -2845365266541562384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 989
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89d4a51c48b1bf90800000000000000
+      internalID: -6939562913881073269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 990
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e31adf16eb35390800000000000000
+      internalID: -7830705998990852501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 959
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ddc96e1e1106370800000000000000
+      internalID: 8313664574060289405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 959
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5bd060391ca63c0800000000000000
+      internalID: -4365464051576359456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 959
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d648800ca0ffbbd0800000000000000
+      internalID: -2612104637317626160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_12
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 749
+        width: 98
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593e8c8ff96408f40800000000000000
+      internalID: 5728656378902930325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 888
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1807ceea53e239c0800000000000000
+      internalID: -3948843943557920738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 922
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637414e207605a10800000000000000
+      internalID: 1896128705237119840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 922
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf895de9b4adecc10800000000000000
+      internalID: 2075836496586578172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 924
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e775d344f89b970800000000000000
+      internalID: 8771199272530443834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 925
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7456bb7ce2416a40800000000000000
+      internalID: 5359638615002862719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 863
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4a3a0b04707bbd0800000000000000
+      internalID: -2614613084242467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 863
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a9e5d865278f6f0800000000000000
+      internalID: -650644430090495474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 863
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9869589d9620220800000000000000
+      internalID: 2450637530213026295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 858
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89bd76b1198b7670800000000000000
+      internalID: 8537568227780049295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 858
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3de92ebf4eaf350800000000000000
+      internalID: 6051400819815666646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 860
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cefe9ce6c3628a50800000000000000
+      internalID: 6521884916410416836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 792
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc9133f0c16e000800000000000000
+      internalID: 64770096250866925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 799
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480305cbc6a32a50800000000000000
+      internalID: 6495218481712269376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 767
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4170c37d2d97760800000000000000
+      internalID: 7456222479955465470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 767
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb22b606904ec7f0800000000000000
+      internalID: -590463488037344305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 767
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef06983098582860800000000000000
+      internalID: 7505346155460825056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 607
+        width: 206
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed59b4d68443cd0800000000000000
+      internalID: -2579357052319703458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 639
+        width: 32
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0a72056195db00800000000000000
+      internalID: 852747567475855123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 703
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06cf083a03e7fb70800000000000000
+      internalID: 8932858018942404111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 703
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3461cececc1983630800000000000000
+      internalID: 3907032986078156355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_33
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 725
+        width: 98
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31238b6860a9d30800000000000000
+      internalID: 4438867558412719083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 701
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773045cac7c4fef0800000000000000
+      internalID: -75215620051814542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 693
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5cce34a6ee1a1c0800000000000000
+      internalID: -4494048812965509696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_36
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 693
+        width: 98
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e8693e652f42340800000000000000
+      internalID: 4838258354702159372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 693
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a66654a0cd36e5d0800000000000000
+      internalID: -3033669401387309406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 653
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68510fdefcb65980800000000000000
+      internalID: -8550439039667185556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 633
+        width: 226
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fced9886f7976ffa0800000000000000
+      internalID: -5767288684679668017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 633
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f0f29d4bb82ec10800000000000000
+      internalID: 2081379586652704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 633
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384a9bc8193caeed0800000000000000
+      internalID: -2383878022840605565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_42
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 671
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a6c044b2ca815b0800000000000000
+      internalID: -5397374851578303873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 671
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc2e03ac5066d50800000000000000
+      internalID: 6730073059113488346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_44
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 643
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dab450f3092c280800000000000000
+      internalID: -9024492102950867687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_45
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 603
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c481ec8b8415ab0800000000000000
+      internalID: -5021152150972511162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 582
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4116876296eed2e30800000000000000
+      internalID: 4480499339687911700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 575
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df609c278a5ce5880800000000000000
+      internalID: -8620235309469595907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 585
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad44033939ce3d00800000000000000
+      internalID: 954421418555362726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 572
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cc56c971549e0d0800000000000000
+      internalID: -3393104876536476559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 572
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08885a5fc32457460800000000000000
+      internalID: 7238764805654677632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 572
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c80769269fb0670800000000000000
+      internalID: 8506166523045383189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 572
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac0324eb93f71f0800000000000000
+      internalID: -1045053099209602509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 572
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfc0906ea4cab680800000000000000
+      internalID: -8738455873735569472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_54
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c842958a1586340800000000000000
+      internalID: 4857221981611002956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_55
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 580
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b91b1709afad6b50800000000000000
+      internalID: 6588114970416454065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 511
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485689a8f78ee800800000000000000
+      internalID: 643601298826352717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_57
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 511
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8dcaac69cbb830800000000000000
+      internalID: 4088082555328106171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 422
+        width: 60
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ead8bcae12ae3960800000000000000
+      internalID: 7583677075169008358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 207
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9528994b6a4a3d0800000000000000
+      internalID: -3196246540926428703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1401f09665c6790800000000000000
+      internalID: -7535553067273403932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 375
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953590efe4ea3230800000000000000
+      internalID: 3619456969461806490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 479
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2d5659ed3e8b50800000000000000
+      internalID: 6597278576529977164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_63
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 368
+        width: 62
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9a9098d85b64c0800000000000000
+      internalID: -4293240132605404146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_64
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 368
+        width: 32
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4aa59a073ec150800000000000000
+      internalID: 5894709480874724623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_65
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 383
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b75fc1f49180d920800000000000000
+      internalID: 3013050627422902200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 415
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451be015c7e702e0800000000000000
+      internalID: -2159502662722448062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_67
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 383
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31d1de01f12c6380800000000000000
+      internalID: -8976762638036774596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 353
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6d184f7b73d5dd0800000000000000
+      internalID: -2495777355272694099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 213
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf94e93b46b90910800000000000000
+      internalID: 1804173559948681183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 213
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517477c1add4c9390800000000000000
+      internalID: -7810282054591494379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_71
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 282
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097b33f9b92d6300800000000000000
+      internalID: 246899433201694977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_72
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 283
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb65925ec8345a0800000000000000
+      internalID: -6538227318142877903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_73
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 284
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a140f07af9cb93be0800000000000000
+      internalID: -1496958007235378150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_74
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 255
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460636a4f4a784400800000000000000
+      internalID: 308631055443910756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_75
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 111
+        width: 23
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca426a175a43380800000000000000
+      internalID: -8992380648414729136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 990
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06235ad5f93521a0800000000000000
+      internalID: -6834993131372206577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_77
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 213
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3388fa1b0e745210800000000000000
+      internalID: 1320819176888632125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Urban City Tileset Basic 32x32 Dlou Saiyan_78
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 95
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a51d08d916289c0800000000000000
+      internalID: -3926468596014687646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Urban City Tileset Basic 32x32 Dlou Saiyan_0: -8167143149833109466
+      Urban City Tileset Basic 32x32 Dlou Saiyan_1: 505440561521920903
+      Urban City Tileset Basic 32x32 Dlou Saiyan_10: -4365464051576359456
+      Urban City Tileset Basic 32x32 Dlou Saiyan_11: -2612104637317626160
+      Urban City Tileset Basic 32x32 Dlou Saiyan_12: 5728656378902930325
+      Urban City Tileset Basic 32x32 Dlou Saiyan_13: -3948843943557920738
+      Urban City Tileset Basic 32x32 Dlou Saiyan_14: 1896128705237119840
+      Urban City Tileset Basic 32x32 Dlou Saiyan_15: 2075836496586578172
+      Urban City Tileset Basic 32x32 Dlou Saiyan_16: 8771199272530443834
+      Urban City Tileset Basic 32x32 Dlou Saiyan_17: 5359638615002862719
+      Urban City Tileset Basic 32x32 Dlou Saiyan_18: -2614613084242467608
+      Urban City Tileset Basic 32x32 Dlou Saiyan_19: -650644430090495474
+      Urban City Tileset Basic 32x32 Dlou Saiyan_2: -515107797789441275
+      Urban City Tileset Basic 32x32 Dlou Saiyan_20: 2450637530213026295
+      Urban City Tileset Basic 32x32 Dlou Saiyan_21: 8537568227780049295
+      Urban City Tileset Basic 32x32 Dlou Saiyan_22: 6051400819815666646
+      Urban City Tileset Basic 32x32 Dlou Saiyan_23: 6521884916410416836
+      Urban City Tileset Basic 32x32 Dlou Saiyan_24: 64770096250866925
+      Urban City Tileset Basic 32x32 Dlou Saiyan_25: 6495218481712269376
+      Urban City Tileset Basic 32x32 Dlou Saiyan_26: 7456222479955465470
+      Urban City Tileset Basic 32x32 Dlou Saiyan_27: -590463488037344305
+      Urban City Tileset Basic 32x32 Dlou Saiyan_28: 7505346155460825056
+      Urban City Tileset Basic 32x32 Dlou Saiyan_29: -2579357052319703458
+      Urban City Tileset Basic 32x32 Dlou Saiyan_3: -411857243932065164
+      Urban City Tileset Basic 32x32 Dlou Saiyan_30: 852747567475855123
+      Urban City Tileset Basic 32x32 Dlou Saiyan_31: 8932858018942404111
+      Urban City Tileset Basic 32x32 Dlou Saiyan_32: 3907032986078156355
+      Urban City Tileset Basic 32x32 Dlou Saiyan_33: 4438867558412719083
+      Urban City Tileset Basic 32x32 Dlou Saiyan_34: -75215620051814542
+      Urban City Tileset Basic 32x32 Dlou Saiyan_35: -4494048812965509696
+      Urban City Tileset Basic 32x32 Dlou Saiyan_36: 4838258354702159372
+      Urban City Tileset Basic 32x32 Dlou Saiyan_37: -3033669401387309406
+      Urban City Tileset Basic 32x32 Dlou Saiyan_38: -8550439039667185556
+      Urban City Tileset Basic 32x32 Dlou Saiyan_39: -5767288684679668017
+      Urban City Tileset Basic 32x32 Dlou Saiyan_4: 8377088084737176161
+      Urban City Tileset Basic 32x32 Dlou Saiyan_40: 2081379586652704582
+      Urban City Tileset Basic 32x32 Dlou Saiyan_41: -2383878022840605565
+      Urban City Tileset Basic 32x32 Dlou Saiyan_42: -5397374851578303873
+      Urban City Tileset Basic 32x32 Dlou Saiyan_43: 6730073059113488346
+      Urban City Tileset Basic 32x32 Dlou Saiyan_44: -9024492102950867687
+      Urban City Tileset Basic 32x32 Dlou Saiyan_45: -5021152150972511162
+      Urban City Tileset Basic 32x32 Dlou Saiyan_46: 4480499339687911700
+      Urban City Tileset Basic 32x32 Dlou Saiyan_47: -8620235309469595907
+      Urban City Tileset Basic 32x32 Dlou Saiyan_48: 954421418555362726
+      Urban City Tileset Basic 32x32 Dlou Saiyan_49: -3393104876536476559
+      Urban City Tileset Basic 32x32 Dlou Saiyan_5: -1047626016736266316
+      Urban City Tileset Basic 32x32 Dlou Saiyan_50: 7238764805654677632
+      Urban City Tileset Basic 32x32 Dlou Saiyan_51: 8506166523045383189
+      Urban City Tileset Basic 32x32 Dlou Saiyan_52: -1045053099209602509
+      Urban City Tileset Basic 32x32 Dlou Saiyan_53: -8738455873735569472
+      Urban City Tileset Basic 32x32 Dlou Saiyan_54: 4857221981611002956
+      Urban City Tileset Basic 32x32 Dlou Saiyan_55: 6588114970416454065
+      Urban City Tileset Basic 32x32 Dlou Saiyan_56: 643601298826352717
+      Urban City Tileset Basic 32x32 Dlou Saiyan_57: 4088082555328106171
+      Urban City Tileset Basic 32x32 Dlou Saiyan_58: 7583677075169008358
+      Urban City Tileset Basic 32x32 Dlou Saiyan_59: -3196246540926428703
+      Urban City Tileset Basic 32x32 Dlou Saiyan_6: -2845365266541562384
+      Urban City Tileset Basic 32x32 Dlou Saiyan_60: -7535553067273403932
+      Urban City Tileset Basic 32x32 Dlou Saiyan_61: 3619456969461806490
+      Urban City Tileset Basic 32x32 Dlou Saiyan_62: 6597278576529977164
+      Urban City Tileset Basic 32x32 Dlou Saiyan_63: -4293240132605404146
+      Urban City Tileset Basic 32x32 Dlou Saiyan_64: 5894709480874724623
+      Urban City Tileset Basic 32x32 Dlou Saiyan_65: 3013050627422902200
+      Urban City Tileset Basic 32x32 Dlou Saiyan_66: -2159502662722448062
+      Urban City Tileset Basic 32x32 Dlou Saiyan_67: -8976762638036774596
+      Urban City Tileset Basic 32x32 Dlou Saiyan_68: -2495777355272694099
+      Urban City Tileset Basic 32x32 Dlou Saiyan_69: 1804173559948681183
+      Urban City Tileset Basic 32x32 Dlou Saiyan_7: -6939562913881073269
+      Urban City Tileset Basic 32x32 Dlou Saiyan_70: -7810282054591494379
+      Urban City Tileset Basic 32x32 Dlou Saiyan_71: 246899433201694977
+      Urban City Tileset Basic 32x32 Dlou Saiyan_72: -6538227318142877903
+      Urban City Tileset Basic 32x32 Dlou Saiyan_73: -1496958007235378150
+      Urban City Tileset Basic 32x32 Dlou Saiyan_74: 308631055443910756
+      Urban City Tileset Basic 32x32 Dlou Saiyan_75: -8992380648414729136
+      Urban City Tileset Basic 32x32 Dlou Saiyan_76: -6834993131372206577
+      Urban City Tileset Basic 32x32 Dlou Saiyan_77: 1320819176888632125
+      Urban City Tileset Basic 32x32 Dlou Saiyan_78: -3926468596014687646
+      Urban City Tileset Basic 32x32 Dlou Saiyan_8: -7830705998990852501
+      Urban City Tileset Basic 32x32 Dlou Saiyan_9: 8313664574060289405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
