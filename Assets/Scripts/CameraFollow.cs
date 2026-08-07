@@ -13,7 +13,7 @@ public class CameraFollow : MonoBehaviour
 
     }
 
-    void FixedUpdate()
+    void LatedUpdate()
     {
         
         if (Player.position.x >= transform.position.x)
