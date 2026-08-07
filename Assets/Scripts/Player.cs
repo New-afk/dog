@@ -13,9 +13,9 @@ public class Player : MonoBehaviour
 
     // public InputAction ataquePlayer;
 
-    // public Animator animPlayer;
+    public Animator animPlayer;
 
-    // public bool isWalking = false;
+    public bool isWalking = false;
 
     // public float kBForce;
 
@@ -52,16 +52,16 @@ public class Player : MonoBehaviour
        if(direcaoPlayer.x != 0 || direcaoPlayer.z != 0)
         {
 
-            // isWalking = true;
-            // animPlayer.SetBool("estaAndando", true);
+            isWalking = true;
+            animPlayer.SetBool("estaAndando", true);
 
         }
         else
         {
 
-            // isWalking = false;
-            // animPlayer.SetBool("estaAndando", false);
-         }
+            isWalking = false;
+            animPlayer.SetBool("estaAndando", false);
+        }
     }
 
     // public void Attack(InputAction.CallbackContext context)
