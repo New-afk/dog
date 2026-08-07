@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 3981083567638525791}
   - component: {fileID: 8464580133312720519}
   - component: {fileID: 8658199274367507912}
-  - component: {fileID: 6603003406229291960}
   - component: {fileID: 2756142258490443738}
+  - component: {fileID: 5596137948410268996}
   m_Layer: 7
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -139,21 +139,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!114 &6603003406229291960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3861392748706509837}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ee23ce1465aa79646910b9a13688325d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
-  Player: {fileID: 0}
-  minX: -14
-  maxX: 23.7
 --- !u!61 &2756142258490443738
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -200,3 +185,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 12.12}
   m_EdgeRadius: 0
+--- !u!114 &5596137948410268996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861392748706509837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5cb6cda402980145a5e729ba8983381, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraSeguidorMario
+  player: {fileID: 0}
+  offset: {x: 3, y: 0, z: -10}
+  limiteMinX: -14.72
+  limiteMaxX: 66.4
